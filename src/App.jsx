@@ -25,7 +25,7 @@ function App() {
   ]
 
   return (
-    <div className='main w-[95vw] min-h-[100lvh] lg:h-[100vh] overflow-hidden font-main bg-mainPattern bg-mobile lg:bg-desktop bg-top-2 lg:bg-right-2 bg-no-repeat'>
+    <div className='main w-[100lvw] min-h-[100lvh] lg:h-[100vh] overflow-hidden font-main bg-mainPattern bg-mobile lg:bg-desktop bg-top-2 lg:bg-right-2 bg-no-repeat'>
       <div className='w-full h-full py-6 flex flex-col items-center justify-center bg-curve bg-left-bottom-2 bg-curveSize bg-no-repeat'>
         <div className='card w-[350px] md:w-[800px] xl:w-[1200px] py-8 flex flex-col lg:flex-row-reverse items-center'>
           <section className='flex items-center justify-center relative lg:z-0'>
