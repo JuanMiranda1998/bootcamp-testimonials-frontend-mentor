@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanMiranda1998/bootcamp-testimonials-frontend-mentor)
-- Live Site URL: [Netlify](https://www.example.com)
+- Live Site URL: [Netlify](https://bootcamp-testimonials-juanmiranda.netlify.app/)
 
 ## My process
 
